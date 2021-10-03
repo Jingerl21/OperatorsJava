@@ -10,6 +10,10 @@ public class OperatorsJava {
 		int x = 7;
 		float s = 3F;
 
+		System.out.println(y++ +" +"+ y++ +" +"+y++ +" +"+ ++y);
+		
+		
+		
 		System.out.println((y++) + " y value is" + y);
 
 		System.out.println(++y);
